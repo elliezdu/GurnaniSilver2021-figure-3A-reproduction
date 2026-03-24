@@ -25,8 +25,8 @@ The majority of the notebook was provided as part of a workshop.
 - Highlighted regions of interest
 
 ## Files
-- "notebook.ipynb" - full workflow
-- "GurnaniDataEllieFigure.png" - final reproduced figure
+- "Figure3A_Gurnani2021.ipynb" - full workflow
+- "Figure3A_Reproduced.png" - final reproduced figure
 
 ## Notes
 - This short project demonstrates working with real neuroscience data and reproducing published figures.
