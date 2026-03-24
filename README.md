@@ -13,10 +13,11 @@ This notebook explores neural activity data and recreates a figure similar to on
 - Recreated using Python (NumPy, Matplotlib, Pandas)
 - Focus on replicating data trends and visualization
 
+
 ## My Contribution
 The majority of the notebook was provided as part of a workshop.
 
-**My main contribution is the final visualisation "My Contribution: recreate figure 3A from the paper", where I**
+**My main contribution is the final visualisation "My Contribution: recreate Figure 3A from the paper", where I**
 - Constructed the full multi-panel figure
 - Applied scaling and offsets to align signals
 - Added annotations, labels, and time scale
@@ -27,7 +28,7 @@ The majority of the notebook was provided as part of a workshop.
 - "GurnaniDataEllieFigure.png" - final reproduced figure
 
 ## Notes
-- This was a short exercise to practice working with real research data and reproducing published figures.
+- This short project demonstrates working with real neuroscience data and reproducing published figures.
 
 ## Future Improvements
 - Refine visual styling to better match original
