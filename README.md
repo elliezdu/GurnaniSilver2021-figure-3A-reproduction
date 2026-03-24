@@ -18,7 +18,7 @@ This notebook explores neural activity data and recreates a figure similar to on
 ![Figure](Figure3A_Reproduced.png)
 The majority of the notebook was provided as part of a workshop.
 
-**My main contribution is the final visualisation "My Contribution: recreate Figure 3A from the paper", where I**
+**My main contribution is the final visualisation, where I**
 - Constructed the full multi-panel figure
 - Applied scaling and offsets to align signals
 - Added annotations, labels, and time scale
